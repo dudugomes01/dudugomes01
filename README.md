@@ -1,4 +1,4 @@
-## Oii eu sou a Eduardo Gomes, Front-end e criador de conteúdo de programação!
+## Prazer eu sou a Eduardo Gomes, Desenvolvedor Front-end e futuro full stack.
 
 
   <a href="https://github.com/dudugomes01">
