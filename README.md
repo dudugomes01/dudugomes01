@@ -1,5 +1,7 @@
-## Prazer eu sou a Eduardo Gomes, Desenvolvedor Front-end e futuro full stack.
-
+## Eduardo Gomes, Desenvolvedor Front-end e futuro full stack.
+<ul>
+<li>Graduando em Análise e Desenvolvimento de Sistemas na UniFametro<li>
+<ul>
 
   <a href="https://github.com/dudugomes01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudugomes01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
