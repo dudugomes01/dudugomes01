@@ -1,6 +1,5 @@
 ## Eduardo Gomes, Desenvolvedor Front-end e futuro full stack.
   • Graduando em Análise e Desenvolvimento de Sistemas na UniFametro<br>
-  • Atualmente trabalhando no Hospital São Camilo
 <br><br>
 
   <a href="https://github.com/dudugomes01">
