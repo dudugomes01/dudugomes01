@@ -1,4 +1,4 @@
-## Eduardo Gomes, Desenvolvedor Front-end e futuro full stack.
+## Eduardo Gomes, Desenvolvedor.
   • Graduando em Análise e Desenvolvimento de Sistemas na UniFametro<br>
 <br><br>
 
